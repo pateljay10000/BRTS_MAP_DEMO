@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BRTS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_map">Map</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_search_map">Search_map</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="title_activity_tab_sample">Brts</string>
+    <string name="title_activity_extra">ExtraActivity</string>
+    <string name="action_setting">Setting</string>
+    <string name="Select_Map_Type">Select Map Type</string>
+    <string name="Map_Normal">Normal</string>
+    <string name="Map_Hybrid">Hybrid</string>
+    <string name="Map_satellite">Satellite</string>
+    <string name="Map_terrain">Terrain</string>
+    <string name="Map_none">None</string>
+    <string name="title_activity_route__brts_activity">Route_Brts_activity</string>
+
+</resources>
